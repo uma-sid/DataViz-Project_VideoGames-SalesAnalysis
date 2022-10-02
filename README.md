@@ -1,5 +1,7 @@
+#### This is a Data Visualization Project on Video Games Sales Analysis using Tableau & Power BI
+
 ## 1. Introduction
-The dataset ‘Video Game Sales with Ratings’ is used for this coursework. It is taken from Kaggle.com and is available at https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings?select=Video_Games_Sales_as_at_22_Dec_2016.csv. This dataset is originally web scraped from Metacritic website which maintains aggregated reviews of films, TV shows, music albums and video games.
+The dataset ‘Video Game Sales with Ratings’ is used for this project. It is taken from Kaggle.com and is available at https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings?select=Video_Games_Sales_as_at_22_Dec_2016.csv. This dataset is originally web scraped from Metacritic website which maintains aggregated reviews of films, TV shows, music albums and video games.
 
 ## 2. Persona and questions
 XYZ is a mobile game development company looking for expanding their horizon to the pc and other gaming platforms. The Product development head of the company wanted to analyse the data answer the following questions. 
@@ -103,7 +105,7 @@ While answering Q1 it is observed that there is weak to no correlation between t
 While answering Q2, it is found that across the globe (global region) and all the genres, with in the last 10 years, X360 emerged as most preferred platform. Developer ‘Treyarch’ is leading the development of different games in this platform with a share of 5% of industry sales within these years.
 
 
-## 7. 6. References
+## 7. References
 Data modelling in Power BI: Helpful tips & best practices (2021) Powerbi.com. Available at: https://community.powerbi.com/t5/Community-Blog/Data-Modelling-In-Power-BI-Helpful-Tips-amp-Best-Practices/ba-p/1977956 (Accessed: March 20, 2022).
 
 Tutorial Gateway. (2018). Tableau Case Function. [online] Available at: https://www.tutorialgateway.org/tableau-case-function/ [Accessed 12 March. 2022].
